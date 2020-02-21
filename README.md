@@ -13,3 +13,7 @@ Project scope: create a calculator that can take in two input can complete the f
 # Lesson Learned:
 *  how to use various methods such as parseFloat
 * create function based on DOM element conditions
+
+# Link To Project
+
+https://elastic-hoover-cf4361.netlify.com
